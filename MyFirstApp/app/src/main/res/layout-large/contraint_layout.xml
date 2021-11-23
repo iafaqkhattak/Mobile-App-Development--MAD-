@@ -7,8 +7,8 @@
 
     <androidx.cardview.widget.CardView
         android:id="@+id/cardView"
-        android:layout_width="402dp"
-        android:layout_height="62dp"
+        android:layout_width="603dp"
+        android:layout_height="72dp"
         android:layout_marginStart="4dp"
         app:cardBackgroundColor="#009688"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -20,11 +20,11 @@
             android:id="@+id/textView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="150dp"
+            android:layout_marginLeft="200dp"
             android:fontFamily="@font/roboto_bold"
             android:text="Hello,  Afaq"
             android:textAlignment="center"
-            android:textSize="20sp" />
+            android:textSize="34sp" />
 
 
     </androidx.cardview.widget.CardView>
@@ -42,22 +42,24 @@
         <Button
             android:id="@+id/button3"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="10dp"
-            android:text="Recharge" />
+            android:layout_height="59dp"
+            android:layout_marginLeft="40dp"
+            android:text="Recharge"
+            android:textSize="20sp" />
 
         <Button
             android:id="@+id/button4"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="300dp"
-            android:text="Loan" />
+            android:layout_width="133dp"
+            android:layout_height="59dp"
+            android:layout_marginLeft="450dp"
+            android:text="Loan"
+            android:textSize="20sp" />
 
         <ImageButton
             android:id="@+id/imageButton"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="120dp"
+            android:layout_width="232dp"
+            android:layout_height="214dp"
+            android:layout_marginLeft="200dp"
             android:layout_marginTop="100dp"
             tools:srcCompat="@tools:sample/avatars" />
 
@@ -78,21 +80,24 @@
         android:id="@+id/cardView3"
         android:layout_width="match_parent"
         android:layout_height="61dp"
-        tools:layout_editor_absoluteX="4dp"
-        tools:layout_editor_absoluteY="441dp">
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="552dp">
 
         <Button
             android:id="@+id/button5"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Packages" />
+            android:layout_height="75dp"
+            android:layout_marginLeft="40dp"
+            android:text="Packages"
+            tools:textSize="20sp" />
 
         <Button
             android:id="@+id/button6"
-            android:layout_width="117dp"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="300dp"
-            android:text="Balance" />
+            android:layout_width="150dp"
+            android:layout_height="72dp"
+            android:layout_marginLeft="450dp"
+            android:text="Balance"
+            tools:textSize="20sp" />
     </androidx.cardview.widget.CardView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
