@@ -1,0 +1,92 @@
+
+MyFirstApp/gradlew.bat
+MyFirstApp/gradlew
+*.bat
+MyFirstApp/gradlew
+*.properties
+Explicit Intent/MyFirstApp/.idea/compiler.xml
+Explicit Intent/MyFirstApp/.idea/gradle.xml
+Explicit Intent/MyFirstApp/.idea/misc.xml
+Explicit Intent/MyFirstApp/.idea/vcs.xml
+Explicit Intent/MyFirstApp/app/build.gradle
+Explicit Intent/MyFirstApp/app/proguard-rules.pro
+Explicit Intent/MyFirstApp/app/src/androidTest/java/com/example/myfirstapp/ExampleInstrumentedTest.kt
+Explicit Intent/MyFirstApp/app/src/main/AndroidManifest.xml
+Explicit Intent/MyFirstApp/app/src/main/java/com/example/myfirstapp/MainActivity.kt
+Explicit Intent/MyFirstApp/app/src/main/java/com/example/myfirstapp/SecondActivity.kt
+Explicit Intent/MyFirstApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml
+Explicit Intent/MyFirstApp/app/src/main/res/drawable/ic_launcher_background.xml
+Explicit Intent/MyFirstApp/app/src/main/res/font/roboto_bold.xml
+Explicit Intent/MyFirstApp/app/src/main/res/layout/activity_second.xml
+Explicit Intent/MyFirstApp/app/src/main/res/layout/contraint_layout.xml
+Explicit Intent/MyFirstApp/app/src/main/res/layout/linear_layout.xml
+Explicit Intent/MyFirstApp/app/src/main/res/layout/relative_layout.xml
+Explicit Intent/MyFirstApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+Explicit Intent/MyFirstApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+Explicit Intent/MyFirstApp/app/src/main/res/mipmap-hdpi/ic_launcher.webp
+Explicit Intent/MyFirstApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp
+Explicit Intent/MyFirstApp/app/src/main/res/mipmap-mdpi/ic_launcher.webp
+Explicit Intent/MyFirstApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp
+Explicit Intent/MyFirstApp/app/src/main/res/mipmap-xhdpi/ic_launcher.webp
+Explicit Intent/MyFirstApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp
+Explicit Intent/MyFirstApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp
+Explicit Intent/MyFirstApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp
+Explicit Intent/MyFirstApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp
+Explicit Intent/MyFirstApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp
+Explicit Intent/MyFirstApp/app/src/main/res/values-night/themes.xml
+Explicit Intent/MyFirstApp/app/src/main/res/values/colors.xml
+Explicit Intent/MyFirstApp/app/src/main/res/values/font_certs.xml
+Explicit Intent/MyFirstApp/app/src/main/res/values/ids.xml
+Explicit Intent/MyFirstApp/app/src/main/res/values/preloaded_fonts.xml
+Explicit Intent/MyFirstApp/app/src/main/res/values/strings.xml
+Explicit Intent/MyFirstApp/app/src/main/res/values/themes.xml
+Explicit Intent/MyFirstApp/app/src/test/java/com/example/myfirstapp/ExampleUnitTest.kt
+Explicit Intent/MyFirstApp/build.gradle
+Explicit Intent/MyFirstApp/gradle/wrapper/gradle-wrapper.jar
+Explicit Intent/MyFirstApp/gradlew
+Explicit Intent/MyFirstApp/Mobile-App-Development/
+Explicit Intent/MyFirstApp/settings.gradle
+MyFirstApp/.idea/compiler.xml
+MyFirstApp/.idea/gradle.xml
+MyFirstApp/.idea/misc.xml
+MyFirstApp/.idea/vcs.xml
+MyFirstApp/app/build.gradle
+MyFirstApp/app/proguard-rules.pro
+MyFirstApp/app/src/androidTest/java/com/example/myfirstapp/ExampleInstrumentedTest.kt
+MyFirstApp/app/src/main/AndroidManifest.xml
+MyFirstApp/app/src/main/java/com/example/myfirstapp/MainActivity.kt
+MyFirstApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml
+MyFirstApp/app/src/main/res/drawable/ic_launcher_background.xml
+MyFirstApp/app/src/main/res/font/roboto_bold.xml
+MyFirstApp/app/src/main/res/layout-large/contraint_layout.xml
+MyFirstApp/app/src/main/res/layout-normal/contraint_layout.xml
+MyFirstApp/app/src/main/res/layout-small/contraint_layout.xml
+MyFirstApp/app/src/main/res/layout-xlarge/contraint_layout.xml
+MyFirstApp/app/src/main/res/layout/contraint_layout.xml
+MyFirstApp/app/src/main/res/layout/linear_layout.xml
+MyFirstApp/app/src/main/res/layout/relative_layout.xml
+MyFirstApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml
+MyFirstApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml
+MyFirstApp/app/src/main/res/mipmap-hdpi/ic_launcher.webp
+MyFirstApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp
+MyFirstApp/app/src/main/res/mipmap-mdpi/ic_launcher.webp
+MyFirstApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp
+MyFirstApp/app/src/main/res/mipmap-xhdpi/ic_launcher.webp
+MyFirstApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp
+MyFirstApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp
+MyFirstApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp
+MyFirstApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp
+MyFirstApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp
+MyFirstApp/app/src/main/res/values-night/themes.xml
+MyFirstApp/app/src/main/res/values/colors.xml
+MyFirstApp/app/src/main/res/values/font_certs.xml
+MyFirstApp/app/src/main/res/values/preloaded_fonts.xml
+MyFirstApp/app/src/main/res/values/strings.xml
+MyFirstApp/app/src/main/res/values/themes.xml
+MyFirstApp/app/src/test/java/com/example/myfirstapp/ExampleUnitTest.kt
+MyFirstApp/build.gradle
+MyFirstApp/gradle.properties
+MyFirstApp/gradle/wrapper/gradle-wrapper.jar
+MyFirstApp/gradle/wrapper/gradle-wrapper.properties
+MyFirstApp/gradlew
+MyFirstApp/gradlew.bat

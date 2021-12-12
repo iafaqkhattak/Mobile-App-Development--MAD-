@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">MyFirstApp</string>
-    <string name="headText">Hello User</string>
-    <string name="firstText">Hi there</string>
-    <string name="firstButton">Recharge</string>
-    <string name="secondButton">Loan</string>
-    <string name="betweenImage">Green Line</string>
-    <string name="userPic">Man Avatar</string>
-</resources>
