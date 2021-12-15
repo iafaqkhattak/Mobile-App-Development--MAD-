@@ -70,6 +70,13 @@
             android:layout_marginLeft="300dp"
             android:text="Balance" />
 
+        <Button
+            android:id="@+id/btn_map"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="120dp"
+            android:text="Open Map" />
+
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView

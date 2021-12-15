@@ -12,7 +12,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.linear_layout)
         val  etUserMessage: TextView = findViewById(R.id.etUserMessage)
-        val button1: Button= findViewById(R.id.btnSendMessageToNextActivity)
+        val button1: Button = findViewById(R.id.btnSendMessageToNextActivity)
+        val button2: Button = findViewById(R.id.btn_map)
+
 
         button1.setOnClickListener {
             /*val message: String = etUserMessage.text.toString()
@@ -21,6 +23,10 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)*/
             capturePhoto()
 
+        }
+
+        button2.setOnClickListener{
+            showMap()
         }
 
 
@@ -35,6 +41,14 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    fun showMap() {
+        val geoLocation = Uri.parse("www.google.com")
+        val intent = Intent(Intent.ACTION_VIEW).apply {
+            data = geoLocation
+        }
+        if (intent.resolveActivity(packageManager) != null) {
+            startActivity(intent)
+        }
 
 
 
